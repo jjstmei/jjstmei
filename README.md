@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Imersão Front-end (Alura)**
 
-- 🌱 I’m currently learning **HTML, CSS, Python, Linux, Java and SQL**
+- 🌱 I’m currently learning **HTML, CSS, Python, Java and SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jjsmtei](https://github.com/jjstmei)
 
