@@ -1,8 +1,10 @@
 ###
 <h1 align="center">Hi 👋, I'm Gabriele</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Profile!" align="middle" alt="Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
 <h3 align="center">A curious student of programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjsmtei&label=Profile%20views&color=0e75b6&style=flat" alt="caroline-teixeira" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jjsmtei&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele" /> </p>
 
 - 🔭 I’m currently working on **Imersão Front-end (Alura)**
 
@@ -15,10 +17,21 @@
 </div>
 
 <!--STATS-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjstmei&show_icons=true&locale=en&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjstmei&show_icons=true&locale=en" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjstmei&" /></p>-->
+## Status:
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjstmei&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jjstmei&theme=dark&utcOffset=-3)|
+|---|---|
+<br> 
+
+
+|![](https://github-readme-streak-stats.herokuapp.com/?user=jjstmei&theme=dark&hide_border=true)|![Gabriele's Stats](https://github-readme-stats.vercel.app/api?username=jjstmei&theme=dark&show_icons=true&hide_border=true&count_private=true)
+|---|---|
+<br>
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjstmei&theme=dark)|![Gabriele's Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jjstmei&theme=dark)
+|---|---|
+<br>
 
 
