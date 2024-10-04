@@ -6,7 +6,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jjsmtei&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele" /> </p>
 
-- 🔭 I’m currently studying the course: **Git e Github: compartilhando e colaborando em projetos**
+- 🔭 I’m currently studying the course: **Lógica de programação: praticando com desafios**
 
 - 🌱 I’m currently learning:
 
